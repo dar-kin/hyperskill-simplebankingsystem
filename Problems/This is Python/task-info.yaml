@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    httpResponse = 'mocked response'
+    httpError = 404
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5890
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/5890">JetBrains
+    Academy</a></html>
+  time: Thu, 27 Aug 2020 08:47:26 UTC
+record: -1
